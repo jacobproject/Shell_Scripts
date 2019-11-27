@@ -1,4 +1,4 @@
- ![image](https://github.com/jacobproject/Shell_Scripts/blob/master/cover/cover2.jpg)</br>
+ ![image](https://github.com/jacobproject/Shell_Scripts/blob/master/cover/cover.jpg)</br>
 图书《Linux Shell核心编程指南》的素材脚本。
 
 《Linux Shell Scripts manual》 materials.
