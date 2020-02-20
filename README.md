@@ -5,7 +5,7 @@
 
 The book's index:
 
-第1章　从这里开始，起飞了 (page 1)
+**第1章　从这里开始，起飞了 (page 1) 
 Chaper1 Now begin!
 
 
@@ -37,7 +37,7 @@ Basic operation.
 
 </br>
 
-第2章　人工智能，很人工、很智能的脚本 (page 46)
+**第2章　人工智能，很人工、很智能的脚本 (page 46)
 Chapter2 So smart script!
 
 
@@ -86,7 +86,7 @@ Game:Rock-paper-scissors.
 
 
 </br>
-第3章　根本停不下来的循环和中断控制 (page 104)
+**第3章　根本停不下来的循环和中断控制 (page 104)
 Chapter3 loop and break
 
 
@@ -126,7 +126,7 @@ Game: Lottery.
 
 
 </br>
-第4章　请开始你的表演，数组、Subshell与函数 (page 152)
+**第4章　请开始你的表演，数组、Subshell与函数 (page 152)
 Chapter4 Array、subshell and function.
 
 
@@ -181,7 +181,7 @@ Game: puzzle.
 
 
 </br>
-第5章　一大波脚本技巧正向你走来 (page 221)
+**第5章　一大波脚本技巧正向你走来 (page 221)
 Chapter5 Skill.
 
 
@@ -242,7 +242,7 @@ Example: Nginx log.
 
 
 </br>
-第6章　上古神兵利器sed (page 285)
+**第6章　上古神兵利器sed (page 285)
 Chapter6 sed.
 
 6.1　sed基本指令 (page 285)
@@ -278,7 +278,7 @@ Game:Roll call.
 
 
 </br>
-第7章　不可思议的编程语言awk (page 356)
+**第7章　不可思议的编程语言awk (page 356)
 Chapter7 awk.
 
 7.1　awk基础语法 (page 356)
