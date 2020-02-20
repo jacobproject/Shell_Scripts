@@ -5,7 +5,7 @@
 
 The book's index:
 
-**第1章　从这里开始，起飞了 (page 1) 
+** 第1章　从这里开始，起飞了 (page 1)  **
 Chaper1 Now begin!
 
 
